@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>kr.ive</groupId>
+  <artifactId>offerwall_sdk</artifactId>
+  <version>1.0.8-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180305.040013</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20180305040013</lastUpdated>
+  </versioning>
+</metadata>
